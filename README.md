@@ -89,7 +89,7 @@ arr.forEach(
 DAY 02
 
 
-1. D
+1. B
 2. A
 3. A
 4. B
